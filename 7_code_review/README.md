@@ -27,32 +27,32 @@ Learn how to collaborate with a group on a single project hosted in a GitHub
 repository. Practice using GitHub's project management features to organize your
 group's tasks and to double-check your project's code quality.
 
-- [ ] 🥚 **Contributor Guidelines**: Your group can define contributor
+- [x] 🥚 **Contributor Guidelines**: Your group can define contributor
       guidelines that describes how everyone can add their work to the project.
-- [ ] 🥚 **Code of Conduct**: Your group can write a code of conduct for your
+- [x] 🥚 **Code of Conduct**: Your group can write a code of conduct for your
       project that describes how everyone should communicate and what behavior
       is considered unproductive.
-- [ ] 🥚 **Repository Contributors**: You can add group members as collaborators
+- [x] 🥚 **Repository Contributors**: You can add group members as collaborators
       in a repository.
-- [ ] 🥚 **Issue Templates**: Your group can use issue templates to make sure
+- [x] 🥚 **Issue Templates**: Your group can use issue templates to make sure
       all issues are complete and relevant to the project. in your repository
       and merge changes without causing any conflicts.
-- [ ] 🥚 **Continuous Integration**: You can check your code's correctness
+- [x] 🥚 **Continuous Integration**: You can check your code's correctness
       before pushing, and fix any mistakes that are caught by Continuous
       Integration actions.
-- [ ] 🥚 **Code Review**: You can use the PR Template and CI checks to review
+- [x] 🥚 **Code Review**: You can use the PR Template and CI checks to review
       another group member's code - discussing trade-offs in behavior, strategy
       and implementation to help your classmates write their best solutions
       before merging to `main`.
 - 🐣 **GitHub Project Management**: You can ...
-  - [ ] Use issues to define tasks in a group project. Each issue should have a
+  - [x] Use issues to define tasks in a group project. Each issue should have a
         helpful title, complete description, and helpful labels.
-  - [ ] Use a Project Board to organize a project's issues
-  - [ ] Claim issues and track your progress with the project board
-  - [ ] Link a PR to your claimed issue
-  - [ ] Assign someone to review your PR
-  - [ ] Use GitHub code review features to discuss your code with your reviewer
-- [ ] 🐣 **Fixing Merge Conflicts**: You can fix merge conflicts by selecting
+  - [x] Use a Project Board to organize a project's issues
+  - [x] Claim issues and track your progress with the project board
+  - [x] Link a PR to your claimed issue
+  - [x] Assign someone to review your PR
+  - [x] Use GitHub code review features to discuss your code with your reviewer
+- [x] 🐣 **Fixing Merge Conflicts**: You can fix merge conflicts by selecting
       which change to keep, or deciding how to combine them. If a conflict
       occurs in a GitHub PR you can pull both branches and fix the conflict
       locally.
